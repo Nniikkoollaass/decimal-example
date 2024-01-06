@@ -359,4 +359,8 @@ age = cat.get("age")
 cat.update(info)
 
 print(cat)
+print(age = " ")
+
+
+
 print(age)
